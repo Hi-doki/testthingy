@@ -1,0 +1,14 @@
+C:\Users\cla23205337\source\repos\hjghjgh\hjghjgh\obj\Debug\net8.0\hjghjgh.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cla23205337\source\repos\hjghjgh\hjghjgh\obj\Debug\net8.0\hjghjgh.AssemblyInfoInputs.cache
+C:\Users\cla23205337\source\repos\hjghjgh\hjghjgh\obj\Debug\net8.0\hjghjgh.AssemblyInfo.cs
+C:\Users\cla23205337\source\repos\hjghjgh\hjghjgh\obj\Debug\net8.0\hjghjgh.csproj.CoreCompileInputs.cache
+C:\Users\cla23205337\source\repos\hjghjgh\hjghjgh\bin\Debug\net8.0\hjghjgh.exe
+C:\Users\cla23205337\source\repos\hjghjgh\hjghjgh\bin\Debug\net8.0\hjghjgh.deps.json
+C:\Users\cla23205337\source\repos\hjghjgh\hjghjgh\bin\Debug\net8.0\hjghjgh.runtimeconfig.json
+C:\Users\cla23205337\source\repos\hjghjgh\hjghjgh\bin\Debug\net8.0\hjghjgh.dll
+C:\Users\cla23205337\source\repos\hjghjgh\hjghjgh\bin\Debug\net8.0\hjghjgh.pdb
+C:\Users\cla23205337\source\repos\hjghjgh\hjghjgh\obj\Debug\net8.0\hjghjgh.dll
+C:\Users\cla23205337\source\repos\hjghjgh\hjghjgh\obj\Debug\net8.0\refint\hjghjgh.dll
+C:\Users\cla23205337\source\repos\hjghjgh\hjghjgh\obj\Debug\net8.0\hjghjgh.pdb
+C:\Users\cla23205337\source\repos\hjghjgh\hjghjgh\obj\Debug\net8.0\hjghjgh.genruntimeconfig.cache
+C:\Users\cla23205337\source\repos\hjghjgh\hjghjgh\obj\Debug\net8.0\ref\hjghjgh.dll
